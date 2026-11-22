@@ -184,7 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
-
+* [gifkit](https://gifkit.net) - A focused browser-based GIF toolkit with no signup or uploads: compress GIFs toward Discord's 256 KB target, crop, change speed, extract frames as PNG or ZIP, and create typing-text GIFs. It does not replace a full video editor, and compression can be lossy or may not reach every target size.
 
 ### Music, Radio and Podcasts
 
